@@ -1,0 +1,33 @@
+.blizzard-bar {
+    margin-top: 10px;
+    background-color: #000000;
+    height: 10vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #ffffff;
+}
+
+.blizzard-bar__list {
+    padding: 10px;
+    width: 70%;
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+}
+
+.blizzard-bar__list li {
+    opacity: 70%;
+}
+
+.blizzard-bar__list li:hover {
+    opacity: 100%;
+}
+
+.blizzard-bar__login {
+    padding: 10px;
+    width: 30%;
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+}
+
+

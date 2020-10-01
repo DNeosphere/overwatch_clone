@@ -1,0 +1,10 @@
+.hero{
+    width: 100vw;
+    height: 70vh;
+    background-image: url('../../assets/1600971911890.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0 -300px;
+    border-bottom: ridge;
+    clip-path: polygon(0 0, 100% 0%, 100% 88%, 50% 99%, 0% 88%);
+}
